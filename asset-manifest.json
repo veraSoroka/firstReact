@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/veraSoroka/firstReact.git/static/css/main.567b1583.css",
-    "main.js": "/veraSoroka/firstReact.git/static/js/main.2db40854.js",
-    "index.html": "/veraSoroka/firstReact.git/index.html",
-    "main.567b1583.css.map": "/veraSoroka/firstReact.git/static/css/main.567b1583.css.map",
-    "main.2db40854.js.map": "/veraSoroka/firstReact.git/static/js/main.2db40854.js.map"
+    "main.css": "/veraSoroka/firstReact/static/css/main.567b1583.css",
+    "main.js": "/veraSoroka/firstReact/static/js/main.2db40854.js",
+    "index.html": "/veraSoroka/firstReact/index.html",
+    "main.567b1583.css.map": "/veraSoroka/firstReact/static/css/main.567b1583.css.map",
+    "main.2db40854.js.map": "/veraSoroka/firstReact/static/js/main.2db40854.js.map"
   },
   "entrypoints": [
     "static/css/main.567b1583.css",
