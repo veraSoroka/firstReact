@@ -1,0 +1,53 @@
+.about-us {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 20px 20px 20px;
+}
+
+.about-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.about-left-block {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 20px;
+    flex-direction: column;
+}
+
+.about-right-block {
+    display: flex;
+    width: 50%;
+}
+
+.about-right-block img {
+    width: 350px;
+}
+
+.about-us button {
+    margin: 40px;
+    width: 300px;
+    height: 70px;
+    font-size: 16px;
+    background-color: darkcyan;
+    color: cornsilk;
+    border: 0px solid;
+    border-radius: 15px;
+}
+
+.about-us button:hover {
+    background-color: lightseagreen;
+}
+
+.about-us h4 {
+    font-size: 20px;
+    margin: 20px 0px 20px 0px;
+}
+
+.about-bold {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 25px 0px 25px 0px;
+}
+

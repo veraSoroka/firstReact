@@ -1,0 +1,83 @@
+.Magazine {
+    display: flex;
+    justify-content: center;
+}
+
+.magazine-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "B52";
+    margin-top: 150px;
+    font-size: 40px;
+}
+
+.magazine-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 100px;
+    padding: 10%;
+    height: 580px;
+}
+
+.magazine-img {
+    display: flex;
+    width: 200px;
+}
+
+.buy-info {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+
+.price {
+    display: flex;
+    font-size: 20px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.buy-info-right {
+    display: flex;
+    flex-direction: row;
+}
+
+.buy-info-right .img-cart {
+    display: flex;
+    height: 30px;
+    flex-direction: row;
+}
+
+.buy-info-right .img-heart {
+    display: flex;
+    height: 30px;
+    flex-direction: row;
+}
+
+.more-book {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 100px;
+}
+
+
+.mag-gif {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.mag-gif img {
+    width: 300px;
+}
+
+
+
+
